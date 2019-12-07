@@ -482,8 +482,8 @@ div.contsec1 {
     background-image: url("../img/topleft.svg"), url("../img/topright.svg"), linear-gradient(45deg, #2E9CD1, #4255CF);
     background-position: -4% -6%, 110% -9%;
     background-repeat: no-repeat, no-repeat;
-    border-bottom-right-radius: 40%;
-    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
